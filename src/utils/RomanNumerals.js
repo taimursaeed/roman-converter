@@ -44,6 +44,7 @@ export default class RomanNumerals {
 
     let romans = [];
 
+    // eslint-disable-next-line eqeqeq
     if (s == 0 || s.length === '') return '';
 
     if (s <= 0)
