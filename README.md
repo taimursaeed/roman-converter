@@ -2,6 +2,14 @@
 
 https://roman-converter-five.vercel.app/
 
+## User Stories
+
+- [x] Roman to Integer converter
+- [x] Integer to Roman converter
+- [x] Error handling for invalid inputs
+- [x] Test cases
+
+
 ## Usage
 
 `yarn` to install dependencies
